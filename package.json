@@ -24,7 +24,7 @@
   "homepage": "https://github.com/michcioperz/gulp-csso-usage#readme",
   "dependencies": {
     "gulp-util": "^3.0.7",
-    "htmlparser": "^1.7.7",
+    "htmlparser2": "^3.9.2",
     "through2": "^2.0.3"
   },
   "devDependencies": {
