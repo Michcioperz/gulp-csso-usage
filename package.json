@@ -17,6 +17,9 @@
     "json"
   ],
   "author": "Michał Sidor (Michcioperz)",
+  "contributors": [
+    "Jason Lusk <jason@jasonlusk.com> (https://github.com/mpalpha)"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/michcioperz/gulp-csso-usage/issues"
