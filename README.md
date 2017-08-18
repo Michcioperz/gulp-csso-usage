@@ -14,7 +14,7 @@ var concat = require('gulp-concat');
 gulp.task('usage', function() {
   return gulp.src('**/*.html')
     .pipe(concat('all.html'))
-    .pipe(usage)
+    .pipe(usage())
     .pipe(gulp.dest('.'));
 });
 ```
